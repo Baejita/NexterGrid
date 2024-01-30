@@ -204,7 +204,6 @@ body {
     grid-column: 1/ -1; }
 
 .gallery {
-  background-color: #54483A;
   grid-column: full-start/full-end; }
 
 .footer {
